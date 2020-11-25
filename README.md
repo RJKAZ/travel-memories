@@ -15,3 +15,5 @@ Rewatch the 1st video, the part of setting up the Mongo Atlas connection and fix
 then commence with Video 2 
 
 https://www.youtube.com/watch?v=aibtHnbeuio&feature=youtu.be
+
+left off on the 2nd video at the 11:26 mark. Double check all the code...from the end of the first video to this part, something is wrong
