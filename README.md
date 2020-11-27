@@ -17,3 +17,8 @@ then commence with Video 2
 https://www.youtube.com/watch?v=aibtHnbeuio&feature=youtu.be
 
 left off on the 2nd video at the 11:26 mark. Double check all the code...from the end of the first video to this part, something is wrong
+
+the background image was taken from this really cool site - look into this site more after the project is complete
+https://www.svgbackgrounds.com/
+
+left off on 2nd video at 23:43 mark. at this point the server isn't working. 
