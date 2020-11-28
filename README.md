@@ -22,3 +22,5 @@ the background image was taken from this really cool site - look into this site 
 https://www.svgbackgrounds.com/
 
 left off on 2nd video at 23:43 mark. at this point the server isn't working. 
+
+left off on the 2nd video at the 28:00 mark - server is still not working and I'm not sure why. I have been trouble shooting for over an hour now. 
