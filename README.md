@@ -29,3 +29,5 @@ ok, thats weird....it won't work on my zbook, but on my desktop the server start
 
 
 alright, left at the 2nd video at the 51:20 mark. All teh base functionality works fine, but likes and updateing require a manual refresh of the page to take effect. I messed that up somewhere. 
+
+almost done, left off at 1:10:59 - the step where we begin deploying. Still have that refresh problem, will try and trouble shoot that before the deploying.
